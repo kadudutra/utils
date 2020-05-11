@@ -11,4 +11,3 @@ Execute o comando:
 ```bash
 $ composer require kadudutra/utils
 ```
-https://img.shields.io/packagist/php-v/kadudutra/utils?style=for-the-badge
