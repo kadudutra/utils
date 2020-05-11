@@ -1,0 +1,22 @@
+{
+  "name": "kadudutra/utils",
+  "description": "Utilitários para usar em projetos",
+  "license": "MIT",
+  "keywords": [
+    "utils"
+  ],
+  "authors": [
+    {
+      "name": "Kadu Dutra",
+      "email": "kadudutra7@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "Person\\": "Person/src/"
+    }
+  }
+}
