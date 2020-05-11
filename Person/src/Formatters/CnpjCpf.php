@@ -13,5 +13,12 @@ namespace Person\Formatters;
  */
 class CnpjCpf
 {
-
+    /**
+     * @param string $cnpj_cpf
+     * @return string
+     */
+    public static function formatToId(string $cnpj_cpf): string
+    {
+        return '1' . str_pad($cnpj_cpf, 14, '0', STR_PAD_LEFT);
+    }
 }
