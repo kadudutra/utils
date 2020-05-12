@@ -16,7 +16,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Formatters": "Formatters/src/"
+      "Formatters\\": "Formatters/src/"
     }
   }
 }
