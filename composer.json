@@ -16,7 +16,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Person\\": "Person/src/"
+      "Formatters": "Formatters/src/"
     }
   }
 }
