@@ -2,11 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Person\Formatters;
+namespace Formatters;
 
 /**
- * Utils
- *
  * @copyright (c) 2020.
  * @link <https://github.com/kadudutra/utils.git>
  * @author Kadu Dutra <kadudutra7@gmail.com>
