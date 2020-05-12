@@ -9,7 +9,7 @@ namespace Formatters;
  * @link <https://github.com/kadudutra/utils.git>
  * @author Kadu Dutra <kadudutra7@gmail.com>
  */
-class Ordering
+class ArrayOrder
 {
     /**
      * Ordena array indicando uma chave do mesmo
