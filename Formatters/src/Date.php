@@ -89,8 +89,8 @@ class Date
     private static function operationTimeToDate(
         string $date,
         int $quantity,
-        string $typeTime,
         string $operation,
+        string $typeTime,
         string $responseFormat
     ): string
     {
