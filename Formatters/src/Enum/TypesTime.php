@@ -6,10 +6,10 @@ namespace Formatters\Enum;
 
 class TypesTime
 {
-    public const YEAR   = 'y';
-    public const MONTH  = 'm';
-    public const DAY    = 'd';
-    public const HOUR   = 'h';
-    public const MINUTE = 'i';
-    public const SECOND = 's';
+    public const YEAR   = 'Y';
+    public const MONTH  = 'M';
+    public const DAY    = 'D';
+    public const HOUR   = 'H';
+    public const MINUTE = 'I';
+    public const SECOND = 'S';
 }
